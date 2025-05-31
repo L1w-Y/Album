@@ -29,6 +29,8 @@ docs/book
 *.pcap
 *.cap
 *.pcapng
-mock_client
+
+*.vs
 *.so
 #*#
+music/功能录屏.mp4
